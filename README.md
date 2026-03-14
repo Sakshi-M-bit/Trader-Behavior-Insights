@@ -25,3 +25,30 @@ Charts showing:
 - PnL vs sentiment
 - trade frequency
 - long/short behavior
+
+
+## Methodology
+
+1. Data cleaned and merged by date
+2. Sentiment mapped to each trade
+3. Trader behavior metrics calculated
+4. Performance compared across sentiment regimes
+
+## Insights
+
+ Insight 1:
+Average PnL is higher during Greed days, indicating traders perform better in bullish sentiment.
+
+Insight 2:
+Trade sizes increase significantly during Greed periods.
+
+Insight 3:
+Fear sentiment leads to more short positions.
+
+## Strategy Recommendations
+
+Strategy 1
+Reduce leverage during Fear periods to avoid volatility losses.
+
+Strategy 2
+Increase long exposure during Greed periods when win rates improve.
